@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there, Welcome to my mind workspace
+
+![Poster image of all 80 hackers@campfire with me highlighted ](poster.png)
+
+My name is Amr. I used to do competitive programming, solving hypothetical problems with a script. Nowadays, I enjoy solving real ones.
+
+Currenlty I'm working on:
+Numitz -- A competitive math platform (so math lovers get to learn o)
+Mathtex --
+Stolen-git --
 
 <!--
 **amrbassem218/amrbassem218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
