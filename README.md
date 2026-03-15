@@ -4,4 +4,4 @@
 
 My name is Amr. I used to do competitive programming (solving hypothetical problems with a script). Since June of 2025, I started enjoying solving real ones.
 
-Currenlty I'm working on [Numitz](https://github.com/amrbassem218/numitz): A competitive math platform, kind of like leetcode or codeforces. So math lovers get to learn the same way programmers do.
+Currently I'm working on [Numitz](https://github.com/amrbassem218/numitz): A competitive math platform, kind of like Leetcode or Codeforces. So math lovers get to learn the same way programmers do.
