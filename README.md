@@ -2,7 +2,7 @@
 
 ![Poster image of all 80 hackers@campfire with me highlighted ](poster.png)
 
-My name is Amr. I used to do competitive programming, solving hypothetical problems with a script. Nowadays, I enjoy solving real ones.
+My name is Amr. I used to do competitive programming (solving hypothetical problems with a script). Since June of 2024, I enjoy solving real ones.
 
 Currenlty I'm working on:
 Numitz -- A competitive math platform (so math lovers get to learn o)
