@@ -2,24 +2,6 @@
 
 ![Poster image of all 80 hackers@campfire with me highlighted ](poster.png)
 
-My name is Amr. I used to do competitive programming (solving hypothetical problems with a script). Since June of 2024, I enjoy solving real ones.
+My name is Amr. I used to do competitive programming (solving hypothetical problems with a script). Since June of 2025, I started enjoying solving real ones.
 
-Currenlty I'm working on:
-Numitz -- A competitive math platform (so math lovers get to learn o)
-Mathtex --
-Stolen-git --
-
-<!--
-**amrbassem218/amrbassem218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currenlty I'm working on [Numitz](https://github.com/amrbassem218/numitz): A competitive math platform, kind of like leetcode or codeforces. So math lovers get to learn the same way programmers do.
